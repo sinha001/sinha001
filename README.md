@@ -50,6 +50,9 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Chronicles of Kaliyug: Awakening of the Dreamer](https://medium.com/@nishantsinha_42481/chronicles-of-kaliyug-awakening-of-the-dreamer-d237c4a12ab8?source=rss-2def36d1d9b5------2)
+- [Job Part I: Indoctrinated](https://medium.com/@nishantsinha_42481/job-part-i-indoctrinated-0ed91957fb44?source=rss-2def36d1d9b5------2)
+- [Life Without Her: A Boy’s Journey Through Love and Reality](https://medium.com/@nishantsinha_42481/life-without-her-a-boys-journey-through-love-and-reality-e2a9413a2dfc?source=rss-2def36d1d9b5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sinha001&show_icons=true&theme=dark&locale=en&layout=compact" alt="sinha001" /></p>
