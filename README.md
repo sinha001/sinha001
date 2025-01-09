@@ -1,10 +1,10 @@
-[![MasterHead](./assets/head.png)](https://www.linkedin.com/in/nishant-sinha-37360917b/)
+[![MasterHead](head.png)](https://www.linkedin.com/in/nishant-sinha-37360917b/)
 
 
 <h1 align="center">Hi 👋, I'm Nishant Sinha</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<img align="right" alt = "Coding" width = "400" src = "./assets/runner.gif">
+<img align="right" alt = "Coding" width = "400" src = "runner.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sinha001&label=Profile%20views&color=0e75b6&style=flat" alt="sinha001" /> </p>
 
