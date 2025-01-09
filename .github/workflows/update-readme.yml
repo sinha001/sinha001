@@ -1,0 +1,16 @@
+name: Update README with Medium posts
+
+on:
+  schedule:
+    - cron: '0 0 * * 0' # Runs every hour (you can adjust the schedule)
+  workflow_dispatch: # Allows manual triggering of the action
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Update README
+        uses: gautamkrishnar/blog-post-workflow@v2.1.0
+        with:
+          feed_list: "https://medium.com/feed/@nishantsinha_42481"
