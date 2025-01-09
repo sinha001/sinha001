@@ -1,16 +1,23 @@
-name: Update README with Medium posts
+name: Latest blog post workflow
 
 on:
-  schedule:
-    - cron: '0 * * * *' # Runs every hour (you can adjust the schedule)
-  workflow_dispatch: # Allows manual triggering of the action
+  schedule: # Run workflow automatically
+    - cron: '0 * * * *' # Runs every hour, on the hour
+  workflow_dispatch: # Allows for manual triggering
+
+permissions:
+  contents: write # To write the generated contents to the README
 
 jobs:
-  update-readme:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
+    
     steps:
-      - uses: actions/checkout@v3
-      - name: Update README
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Pull in Medium posts
         uses: gautamkrishnar/blog-post-workflow@v2.1.0
         with:
           feed_list: "https://medium.com/feed/@nishantsinha_42481"
