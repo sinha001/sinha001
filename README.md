@@ -53,6 +53,7 @@
 ### Check Out My Latest Medium Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Job Part II: The Myth of Toppers and Expectations](https://medium.com/@nishantsinha_42481/job-part-ii-the-myth-of-toppers-and-expectations-e3b1e72d03f1?source=rss-2def36d1d9b5------2)
 - [Chronicles of Kaliyug: Awakening of the Dreamer](https://medium.com/@nishantsinha_42481/chronicles-of-kaliyug-awakening-of-the-dreamer-d237c4a12ab8?source=rss-2def36d1d9b5------2)
 - [Job Part I: Indoctrinated](https://medium.com/@nishantsinha_42481/job-part-i-indoctrinated-0ed91957fb44?source=rss-2def36d1d9b5------2)
 - [Life Without Her: A Boy’s Journey Through Love and Reality](https://medium.com/@nishantsinha_42481/life-without-her-a-boys-journey-through-love-and-reality-e2a9413a2dfc?source=rss-2def36d1d9b5------2)
