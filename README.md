@@ -53,11 +53,11 @@
 ### Check Out My Latest Medium Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [She: A Manipulator](https://medium.com/@nishantsinha_42481/she-a-manipulator-20c102bd29d5?source=rss-2def36d1d9b5------2)
 - [Why Vercel Shows 404 on Direct Routes &amp; How to Fix It &lpar;with Real Examples&rpar;](https://medium.com/@nishantsinha_42481/why-vercel-shows-404-on-direct-routes-how-to-fix-it-with-real-examples-7e1ebb796cac?source=rss-2def36d1d9b5------2)
 - [When Love Becomes a Lie](https://medium.com/@nishantsinha_42481/when-love-becomes-a-lie-80588d3886f4?source=rss-2def36d1d9b5------2)
 - [Job Part II: The Myth of Toppers and Expectations](https://medium.com/@nishantsinha_42481/job-part-ii-the-myth-of-toppers-and-expectations-e3b1e72d03f1?source=rss-2def36d1d9b5------2)
 - [Chronicles of Kaliyug: Awakening of the Dreamer](https://medium.com/@nishantsinha_42481/chronicles-of-kaliyug-awakening-of-the-dreamer-d237c4a12ab8?source=rss-2def36d1d9b5------2)
-- [Job Part I: Indoctrinated](https://medium.com/@nishantsinha_42481/job-part-i-indoctrinated-0ed91957fb44?source=rss-2def36d1d9b5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
