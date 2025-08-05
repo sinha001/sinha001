@@ -53,11 +53,11 @@
 ### Check Out My Latest Medium Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Helping or Enabling? A Hard Truth for the AI-Dependent Generation](https://medium.com/@nishantsinha_42481/helping-or-enabling-a-hard-truth-for-the-ai-dependent-generation-8185ead2a966?source=rss-2def36d1d9b5------2)
 - [After Her: The Final Chapter](https://medium.com/@nishantsinha_42481/after-her-the-final-chapter-2c8705a10f1a?source=rss-2def36d1d9b5------2)
 - [Karizma: A Divine Turn on the 3rd Monday of Saavan](https://medium.com/@nishantsinha_42481/karizma-a-divine-turn-on-the-3rd-monday-of-saavan-11395cff7bae?source=rss-2def36d1d9b5------2)
 - [Overthinker: The Many Faces of Silent Suffering in a Loud World](https://medium.com/@nishantsinha_42481/overthinker-the-many-faces-of-silent-suffering-in-a-loud-world-c17b3a1df4dc?source=rss-2def36d1d9b5------2)
 - [She: A Sympathy Player](https://medium.com/@nishantsinha_42481/she-a-sympathy-player-44ea74aadfa6?source=rss-2def36d1d9b5------2)
-- [️ The Dream of Kurukshetra: Echoes Through Kaliyug](https://medium.com/@nishantsinha_42481/%EF%B8%8F-the-dream-of-kurukshetra-echoes-through-kaliyug-45488dcf6739?source=rss-2def36d1d9b5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
