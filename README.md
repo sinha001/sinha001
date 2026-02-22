@@ -53,11 +53,11 @@
 ### Check Out My Latest Medium Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Long Distance, Short Replies — When “Understand Me” Starts Hurting](https://medium.com/@nishantsinha_42481/long-distance-short-replies-when-understand-me-starts-hurting-b6dd5dcc760a?source=rss-2def36d1d9b5------2)
 - [Corruption at Its Peak: When Students Become the Culprits](https://medium.com/@nishantsinha_42481/corruption-at-its-peak-when-students-become-the-culprits-185e1fea5d64?source=rss-2def36d1d9b5------2)
 - [Rakshabandhan — Bonds of Heart vs. Bonds of Blood](https://medium.com/@nishantsinha_42481/rakshabandhan-bonds-of-heart-vs-bonds-of-blood-99947585358e?source=rss-2def36d1d9b5------2)
 - [Helping or Enabling? A Hard Truth for the AI-Dependent Generation](https://medium.com/@nishantsinha_42481/helping-or-enabling-a-hard-truth-for-the-ai-dependent-generation-8185ead2a966?source=rss-2def36d1d9b5------2)
 - [After Her: The Final Chapter](https://medium.com/@nishantsinha_42481/after-her-the-final-chapter-2c8705a10f1a?source=rss-2def36d1d9b5------2)
-- [Karizma: A Divine Turn on the 3rd Monday of Saavan](https://medium.com/@nishantsinha_42481/karizma-a-divine-turn-on-the-3rd-monday-of-saavan-11395cff7bae?source=rss-2def36d1d9b5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
