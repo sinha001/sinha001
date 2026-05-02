@@ -53,11 +53,11 @@
 ### Check Out My Latest Medium Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Forgot to Enjoy Life: A Story of One-Sided Love, Waiting, and Painful Realization](https://medium.com/@nishantsinha_42481/forgot-to-enjoy-life-a-story-of-one-sided-love-waiting-and-painful-realization-b83c1fde348c?source=rss-2def36d1d9b5------2)
 - [The Day I Realized I Was the Only One Trying](https://medium.com/@nishantsinha_42481/the-day-i-realized-i-was-the-only-one-trying-bb28b36806fd?source=rss-2def36d1d9b5------2)
 - [When Love Feels Like a Burden Instead of Support](https://medium.com/@nishantsinha_42481/when-love-feels-like-a-burden-instead-of-support-9743432bfe80?source=rss-2def36d1d9b5------2)
 - [The Boy &amp; His Love for Nani](https://medium.com/@nishantsinha_42481/the-boy-his-love-for-nani-b16543cf3798?source=rss-2def36d1d9b5------2)
 - [Long Distance, Short Replies — When “Understand Me” Starts Hurting](https://medium.com/@nishantsinha_42481/long-distance-short-replies-when-understand-me-starts-hurting-b6dd5dcc760a?source=rss-2def36d1d9b5------2)
-- [Corruption at Its Peak: When Students Become the Culprits](https://medium.com/@nishantsinha_42481/corruption-at-its-peak-when-students-become-the-culprits-185e1fea5d64?source=rss-2def36d1d9b5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
